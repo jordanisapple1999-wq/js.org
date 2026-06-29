@@ -3484,6 +3484,7 @@ var cnames_active = {
   "tw-themes": "kevinast.github.io/tw-themes",
   "twallpaper": "crashmax-dev.github.io/twallpaper",
   "twcopy": "the94air.github.io/twcopy",
+  "tinyfarmvillage": "jordanisapple1999-wq.github.io/tiny-farm-village",
   "tweed": "tweedjs.github.io",
   "tweetnacl": "dchest.github.io/tweetnacl-js",
   "twentyfive": "luckyshot.github.io/twentyfive",
